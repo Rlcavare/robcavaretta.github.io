@@ -1,0 +1,26 @@
+body {
+  background-color: rgba(99, 99, 99, 0.26);
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  text-shadow: 1px 1px rgba(72, 64, 68, 0.8);
+  color: rgba(29, 29, 29, 0.97);
+}
+#firstheader {
+  font-size: 75px;
+}
+
+.borderclass {
+  border-style: solid;
+  border-color: #ababab;
+  border-width: 5px;
+  float: right;
+  width: 5%;
+  background: #999999;
+  text-align: center;
+  padding-right: 2%;
+  list-style: none;
+}
+#highlighter {
+  background-color: #FFFF00;
+}
+
